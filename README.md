@@ -6,3 +6,6 @@
     
 2. Fuzzy C Mean Algorithm
       (iris dataset)
+
+3. Hierarchical clusterning
+    (Dummy dataset)
