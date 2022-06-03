@@ -4,3 +4,5 @@
     (Apriori.ipynb -> code file
     MBA.csv -> Dataset)
     
+2. Fuzzy C Mean Algorithm
+      (iris dataset)
